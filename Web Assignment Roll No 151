@@ -1,0 +1,25 @@
+Roll No 151
+
+
+
+Tags of HTML
+<frameset>
+•	The <frameset> tag defines a frameset.
+•	The <frameset> element holds one or more <frame> elements. Each <frame> element can hold a separate document.
+•	The <frameset> element specifies HOW MANY columns or rows there will be in the frameset, and HOW MUCH percentage/pixels of space will occupy each of them.
+
+
+
+
+
+<iframe>
+•	The <iframe> tag specifies an inline frame.
+•	An inline frame is used to embed another document within the current HTML document.
+
+
+
+
+<frame>
+The <frame> tag is not supported in HTML5.
+The <frame> tag defines one particular window (frame) within a <frameset>.
+Each <frame> in a <frameset> can have different attributes, such as border, scrolling, the ability to resize, etc.
