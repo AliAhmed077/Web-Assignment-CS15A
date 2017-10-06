@@ -460,3 +460,294 @@ file of iframe.html that is checkiframe.html:
  
 
 
+
+
+Roshaan Arshad
+15091519-059
+
+
+Tags:
+
+There is a description and usage of three tags which
+are as follows:
+
+<strong><abbr><option>
+
+
+
+
+
+Tags
+description:
+
+<strong> Definition:
+
+                                                            
+The <strong> tag is a phrase tag. It defines important text.
+
+Note: This tag is not deprecated, but
+it is possible to achieve richer effect with CSS.
+
+Usage
+of <strong>:
+
+
+
+Result:
+
+
+
+ 
+
+<abbr>
+Definition:
+
+                                                   
+The <abbr> element is used along with a title attribute to
+associate a full-text explanation with an abbreviation or acronym. Website
+visitors do not see the text in the title attribute, but browsers, search
+engines, and assistive technologies do use this information.
+
+Note:
+An abbreviation and an acronym are both shortened versions of something else.
+Both are often represented as a series of letters.
+
+Marking up abbreviations can give useful information
+to browsers, translation systems and search-engines.
+
+Usage
+of <abbr>:
+
+
+
+ 
+
+Result:
+
+
+
+ 
+
+By
+moving
+the cursor on UOG it will shows the abbreviation of the UOG that is “University
+of Gujrat”.
+
+<option>
+Definition:
+
+                                                     
+The <option> tag defines an option in a select list.The
+HTML <option> tag is used within a form for defining options in the
+drop-down list. <option> elements go inside a <select> or
+<datalist> element.
+
+Note:
+The <option> tag can be used without any attributes, but you usually need
+the value attribute, which indicates what is sent to the server.
+
+Tip:
+If you have a long list of options, you can group related options with the
+<optgroup> tag.
+
+Global
+Attributes
+
+This tag supports all the global attributes
+described in HTML Attribute Reference
+
+Specific
+Attributes
+
+The HTML <option> tag also supports the
+following additional attributes
+
+ 
+
+ 
+
+
+ 
+  
+  Attribute
+  
+  
+  Value
+  
+  
+  Description
+  
+ 
+ 
+  
+  disabled
+  
+  
+  disabled
+  
+  
+  Disables the input control. The button won't
+  accept changes from the user. It also cannot receive focus and will be
+  skipped when tabbing.
+  
+ 
+ 
+  
+  label
+  
+  
+  text
+  
+  
+  Defines a label to use when using
+  <optgroup>.
+  
+ 
+ 
+  
+  selected
+  
+  
+  selected
+  
+  
+  Defines the default option to be selected
+  when page loads.
+  
+ 
+ 
+  
+  value
+  
+  
+  text
+  
+  
+  Specifies the value of the option to be sent
+  to the server.
+  
+ 
+
+
+ 
+
+Usage
+of <option>:
+
+
+
+Result:
+
+
+
+All the fruit’s names given in the option value will
+be appear in this field for selection.
+
+ 
+
+Sanya Ansar
+15091519-069
+
+
+HTML TAGS
+
+Pre Tag:
+
+The <pre> tag
+defines preformatted text.
+
+Text in a <pre>
+element is displayed in a fixed-width font (usually Courier), and it preserves
+both spaces and line breaks.
+
+Normal Pre Tag:
+
+
+
+ 
+
+Pre Tag Result:
+
+
+
+ 
+
+Pre Tag with
+Width Attribute:
+
+Definition and
+Usage:
+
+The width
+attribute specifies the maximum number of characters per line.
+
+Google,
+internet explorer, does not support it.
+
+Note: Firefox supported the width attribute from version 1.0
+to 29.0.
+
+
+
+Pre Tag with
+width Result:
+
+
+
+li Tag: 
+
+The HTML <li> element is
+used to represent an item in a list. It must be contained in a parent element:
+an ordered list (<ol>), an unordered list (<ul>), or a menu
+(<menu>). In menus and unordered lists, list items are usually displayed
+using bullet points. In ordered lists, they are usually displayed with an
+ascending counter on the left, such as a number or letter.
+
+li tag with ol: 
+
+
+
+li with
+ol tag Result:
+
+
+
+With Value Attribute:
+
+
+
+Value attribute Result:
+
+
+
+li
+with ul tag and type attribute:
+
+
+
+ Result:
+
+
+
+Legend Tag:
+
+The <legend> element is used to
+add a caption to a group of related form <input> elements that have been
+grouped together into a <fieldset>.
+
+Legend with align attribute:
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ Result:
+
+
+
