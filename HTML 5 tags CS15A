@@ -42,3 +42,421 @@ web page.
 
 
 
+
+
+Amna
+Ibarar
+
+15091519-121
+
+Ordered
+list:
+
+An ordered
+list starts with the <ol> tag. Each list item
+starts with the <li> tag.
+
+The list items will be marked with numbers by
+default:
+
+ 
+
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+The list items will be marked alphabetically by
+default:
+
+
+ 
+
+
+
+ 
+
+
+The list items will be marked with Roman Numbers
+by default:
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+<Form>:
+
+The
+HTML <form> element defines a form that is
+used to collect user input.
+
+Form
+elements are different types of input elements, like text fields checkboxes,
+radio buttons, submit buttons, and more.
+
+There are
+two types of attributes of form:
+
+ActionMethod
+
+
+
+Input type TEXT:
+
+<input
+type="text"> defines a one-line input field for text
+input:
+
+
+ 
+
+
+
+ 
+
+
+Input type RADIO:
+
+<input type="radio"> defines a radio
+button.
+
+Radio buttons let a user select ONE of a limited number of
+choices:
+
+
+ 
+
+
+
+ 
+
+
+Input type SUBMIT and attribute Action:
+
+<input type="submit"> defines a button
+for submitting the form data to a form-handler.
+
+The form-handler is typically a server page with a script for
+processing input data.
+
+The form-handler is specified in the form's action attribute:
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+Input type PASSWORD:
+
+<input
+type="password"> defines a password field:
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Input type CHECKBOX:
+
+<input type="checkbox"> defines a checkbox.
+
+Checkboxes let a user select ZERO or MORE options of a limited
+number of choices.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+iframe:
+
+An iframe
+is used to display a web page within a web page.
+
+The
+<iframe> tag specifies an inline frame. An inline frame is used to embed
+another document within the current HTML document.
+
+ 
+
+iframe,html file that contain file of check iframe.html:
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+
+Inside file of iframe.html that is checkiframe.html:
+
+
+ 
+
+
+ 
+
+
+
+Amna Ibrar
+15091519-121
+
+Ordered list:
+
+An ordered list starts with the <ol> tag. Each list item
+starts with the <li> tag.
+
+The list items will be marked with numbers by default:
+
+ 
+
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+The list items will be marked alphabetically by default:
+
+
+ 
+
+
+
+ 
+
+
+The list items will be marked with Roman Numbers by default:
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+<Form>:
+
+The HTML <form> element defines a form that isused to collect user input.
+
+Form
+elements are different types of input elements, like text fields checkboxes,
+radio buttons, submit buttons, and more.
+
+There are two types of attributes of form:
+
+Action
+Method
+
+
+
+Input type TEXT:
+
+<input type="text"> defines a one-line input field for text
+input:
+
+
+ 
+
+
+
+ 
+
+
+Input type RADIO:
+
+<input type="radio"> defines a radio button.
+
+Radio buttons let a user select ONE of a limited number of choices:
+
+
+ 
+
+
+
+ 
+
+
+Input type SUBMIT and attribute Action:
+
+<input type="submit"> defines a button for submitting the form data to a form-handler.
+
+The form-handler is typically a server page with a script for processing input data.
+
+The form-handler is specified in the form's action attribute:
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+Input type PASSWORD:
+
+<input type="password"> defines a password field:
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Input type CHECKBOX:
+
+<input type="checkbox"> defines a checkbox.
+
+Checkboxes let a user select ZERO or MORE options of a limited number of choices.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+iframe:
+
+An iframe is used to display a web page within a web page.
+
+The <iframe> tag specifies an inline frame. An inline frame is used to embed
+another document within the current HTML document.
+
+ 
+
+iframe,html file that contain file of check iframe.html:
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+
+Inside
+file of iframe.html that is checkiframe.html:
+
+
+ 
+
+
+ 
+
+
